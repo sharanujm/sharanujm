@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharanujm10@gmail.com**
 
-- ⚡ Fun fact **🤖 Fun Fact: I have more conversations with my IDE than with people! 😂💬**
+- ⚡ Fun fact **🤖🧑‍💻 I have more conversations with my IDE than with people! 😂💬**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
